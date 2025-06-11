@@ -5,7 +5,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 
 이미지 클릭시 시연영상사이트로 이동
 
-배포 사이트 : https://plzbuybook.store 
+배포 사이트 : http://plzbuybook.store 
 
 
 ## 리포지토리 경로
